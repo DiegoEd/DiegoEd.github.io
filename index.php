@@ -13,6 +13,5 @@ include_once 'plantillas/navbar.php';
 </div>
 
 <?php
-echo $_SERVER['SERVER_NAME'];
 include_once 'plantillas/documento-cierre.php';
 ?>
