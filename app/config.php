@@ -1,7 +1,7 @@
 <?php
 define('NOMBRE_SERVIDOR', 'localhost');
-define('NOMBRE_USUARIO', 'root');
-define('PASSWORD', '');
+define('NOMBRE_USUARIO', 'diego94');
+define('PASSWORD', 'mysql');
 define('NOMBRE_BD', 'empresa');
 
 define('SERVIDOR', 'http://localhost/Empresa');
