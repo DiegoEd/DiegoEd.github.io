@@ -4,7 +4,7 @@ define('NOMBRE_USUARIO', 'diego94');
 define('PASSWORD', 'mysql');
 define('NOMBRE_BD', 'empresa');
 
-define('SERVIDOR', 'http://localhost/Empresa');
+define('SERVIDOR', 'http://nextsoft.cf');
 define('RUTA_REGISTRO', SERVIDOR. '/vistas/registro.php');;
 define('RUTA_LOGIN', SERVIDOR. '/vistas/login.php');
 define('RUTA_LOGOUT', SERVIDOR. '/vistas/logout.php');
