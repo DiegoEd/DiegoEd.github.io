@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER['SERVER_NAME'] == "nextsoft.cf" || $_SERVER['SERVER_NAME'] == "www.nextsoft.cf") {
-	define('SERVIDOR', 'http://nextsoft.cf');
+	define('SERVIDOR', 'http://www.nextsoft.cf');
 	define('NOMBRE_SERVIDOR', 'localhost');
 	define('NOMBRE_USUARIO', 'diego94');
 	define('PASSWORD', 'mysql');
