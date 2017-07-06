@@ -12,7 +12,7 @@ include_once 'app/config.inc.php';*/
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a href="<?php echo SERVIDOR ?>" class="navbar-brand">NextSoft</a>
+			<a href="<?php echo SERVIDOR ?>" class="navbar-brand"><img src="<?php echo SERVIDOR ?>/img/nextsoft.png" id="logo"></a>
 		</div>
 		<div class="navbar-collapse collapse" id="navbar">
 			<ul class="nav navbar-nav">
