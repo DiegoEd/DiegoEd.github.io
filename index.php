@@ -65,7 +65,7 @@ include_once 'plantillas/navbar.php';
 								</div>
 								<div class="col-md-8">
 									<p>NextSoft anuncia el lanzamiento de su nueva aplicación Foto Scan.</p>
-									<p>El proyecto Foto Scan es de código libre. El propósito de este proyecto desarrollado para plataformas móviles Android es la de poner tener un mejor manejo de las imágenes que los usuarios manejan ....</p>
+									<p>El proyecto Foto Scan es software de pago. El usuario interesado deberá pagar 50$ para obtener una licencian anualizada. El propósito de este proyecto desarrollado para plataformas móviles Android es la de poner tener un mejor manejo de las imágenes que los usuarios manejan ....</p>
 								</div>
 							</div>
 							<a href="#" class="btn btn-default btn-news">Seguir leyendo</a>
